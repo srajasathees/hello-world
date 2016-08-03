@@ -1,2 +1,2 @@
 # hello-world
-learning repository creation
+learning repository creation and learning commit
